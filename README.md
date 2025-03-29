@@ -11,3 +11,6 @@ https://github.com/user-attachments/assets/2ab7be02-1acc-4a63-9d16-0a1671737ea4
  
  3下载依赖，运行main.py
   
+# 自定义
+ 1人物请更换pet_idle.gif
+ 2语音请在F5运行训练.bat
